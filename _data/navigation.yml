@@ -1,0 +1,32 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About us
+  url: "/about-us/"
+  side: left
+
+- title: "DVS"
+  url: "/dvs/"
+  side: left
+  
+- title: "ADR"
+  url: "/adr/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: right
+  
+
+- title: "Team"
+  url: "/team/"
+  side: left
+
+- title: "Publications"
+  url: "/publications/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
