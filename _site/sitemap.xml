@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 31 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 24 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>https://hakikidawa.github.io/404.html</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/about-us/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +37,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/adr/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -52,7 +52,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/blog/archive/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,7 +69,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/atom.xml</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -80,43 +80,13 @@
 	</url>
 	
 
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/changelog/</loc>
-	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
 	
 
 	
 	<url>
 	<loc>https://hakikidawa.github.io/contact/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/</loc>
-	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +101,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/dvs/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,22 +116,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/feed.xml</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/getting-started/</loc>
-	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +131,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/headers/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +146,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/humans.txt</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +161,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/blog/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +176,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +191,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/info/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +206,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/publications/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,22 +221,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/redirect-page/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/roadmap/</loc>
-	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -296,7 +236,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/robots.txt</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -315,7 +255,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/search/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -330,7 +270,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/sitemap.xml</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -347,52 +287,7 @@
 	<url>
 	<loc>https://hakikidawa.github.io/team/</loc>
 	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/blog/page2/</loc>
-	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/blog/page3/</loc>
-	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/blog/page4/</loc>
-	
-		<lastmod>2016-10-29T10:14:49-07:00</lastmod>
+		<lastmod>2016-10-29T10:22:00-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -404,292 +299,7 @@
 	
 
 
-<!-- Posts: 19 links with priority=0.5, changefreq=monthly -->
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/mediaelement_js/</loc>
-	
-		<lastmod>2015-10-15T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/typography/typography/</loc>
-	
-		<lastmod>2015-08-16T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/comments/</loc>
-	
-		<lastmod>2015-08-15T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/no-header/</loc>
-	
-		<lastmod>2015-08-11T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/no-header-but-image/</loc>
-	
-		<lastmod>2015-03-12T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/header-with-text/</loc>
-	
-		<lastmod>2015-02-10T00:00:00-08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/header-logo-only/</loc>
-	
-		<lastmod>2014-10-09T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/header-image-color/</loc>
-	
-		<lastmod>2014-10-09T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/header-full-width-image/</loc>
-	
-		<lastmod>2014-10-09T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/header-image-pattern/</loc>
-	
-		<lastmod>2014-10-08T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/gallery/</loc>
-	
-		<lastmod>2014-09-15T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/video/</loc>
-	
-		<lastmod>2014-09-14T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/grid/</loc>
-	
-		<lastmod>2014-09-13T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/portfolio/</loc>
-	
-		<lastmod>2014-09-10T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/page-fullwidth/</loc>
-	
-		<lastmod>2014-08-19T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/post-right-sidebar/</loc>
-	
-		<lastmod>2014-07-10T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/page/</loc>
-	
-		<lastmod>2014-07-10T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/breadcrumb/</loc>
-	
-		<lastmod>2014-07-10T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://hakikidawa.github.io/design/post-left-sidebar/</loc>
-	
-		<lastmod>2014-07-09T00:00:00-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
+<!-- Posts: 0 links with priority=0.5, changefreq=monthly -->
 
 
 </urlset>
