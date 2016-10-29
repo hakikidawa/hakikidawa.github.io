@@ -10,7 +10,7 @@ permalink: "/adr/"
 
 Underreporting of adverse drug reactions by healthcare personnel is a common problem of many pharmacovigilence programs. Paper-based methods of reporting adverse drug reactions cases, which are tedious and prone to data errors, have been charted as one of inhibiting factors for underreporting. HakikiDawa Research team leveraged on the ICTs proliferations to digitize the process of reporting and handling the adverse drug reactions events. Through a user centered and agile software development methods, an Adverse Drug Reactions (ADR) Reporting System was developed. The development was a result of several technical meetings between CIVE researchers and TFDA (IT Department and Clinical Trials Department staff). The architecture of the ADR reporting system adheres to the international ADR reporting guidance issued by the WHO. Adverse events and medication errors are coded to terms in the Medical Dictionary for Regulatory Activities (MedDRA) terminology.
 
-The ADR reporting system has five modules:
+The ADR reporting system has three main modules:
 
 * **Mobile and Web Reporting Tools**: That enables healthcare professionals (such as physicians, pharmacists, nurses and others) and consumer  to voluntarily report issues​ ​regarding quality of medical drugs, medication errors and adverse reactions.
 {: style="text-align: justify;"}
