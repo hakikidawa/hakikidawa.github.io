@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://hakikidawa.github.io/sitemap.xml

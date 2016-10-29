@@ -8,7 +8,6 @@ header:
 permalink: "/dvs/"
 ---
 
-
 College of Informatics and Virtual Education (CIVE) of the University of Dodoma (UDOM), through the financial support of Tanzania Communications Regulatory Authority (TCRA), embarked on a three-year research on Applying Mobile Technology for Drugs Verification in Tanzania. The main objective of the research was to design, develop, implement and support a mobile technology-based system to secure the Tanzanian health sector by enabling medical drugs verification. As one of the main output of the project, Drugs Verification System (DVS) prototype, which is a mobile technology-based system to track, trace and authenticate medical drugs, was developed and tested.
 {: style="text-align: justify;"}
 
@@ -28,4 +27,7 @@ DVS is a comprehensive system designed to secure pharmaceutical supply chain and
 {: style="text-align: justify;"}
 
 * **Mobile Application**: The module can be used by the consumers to verify medical drugs and access some other value added features related to health. The module has two components which are android-based and SMS based applications. The SMS based application serves as an alternative way for verifying medical drugs by consumers who have neither smart-phone nor access to the Internet. The SMS based applicationit offers other services such as scheduling custom notifications to key stakeholders upon occurrence of abnormal cases such as diversion and medical drugs expiration. The android-based application provide set of important features such as dosage reminder designed to allow patients follow dosage instructions and hence encourage medication compliance and help improve patient outcome, enable customers and other stakeholder to search for registerd facilities and pharmacies. 
+{: style="text-align: justify;"}
+
+The entire system underwent extensive testing and evaluation by stakeholders. In general, stakeholders were satisfied with the operations and functionalities of the developed system. The system was further fine tuned following recommendations and comments received from stakeholders.
 {: style="text-align: justify;"}
