@@ -13,12 +13,12 @@ published: true
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}mvuma.pngg" alt="">
+        <img src="{{ site.urlimg }} mvuma.png" alt="">
         <p> Prof A.N Mvuma: Principal Investigator</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}Anthony.jpg" alt="">
+        <img src="{{ site.urlimg }} anthony.jpg" alt="">
         <p>Anthony Faustine: <a href="http://sambaiga.github.io"> Project Team Leader </a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
