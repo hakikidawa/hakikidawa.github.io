@@ -26,12 +26,12 @@ published: true
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
-        <p>Deo Shao: Research Associate (Front-end developer)</a></p>
+        <p>Deo Shao: Research Associate (Front-end developer)</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_tarnkappe.jpg" alt="">
-        <p>Steven Eduard: Research Associate (Backend Developer)</a></p>
+        <p>Steven Eduard: Research Associate (Backend Developer)</p>
     </div><!-- /.medium-4.columns -->
 
     
@@ -41,17 +41,17 @@ published: true
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
-        <p>Rukia : Research Associate (System Analyst)</a></p>
+        <p>Rukia : Research Associate (System Analyst)</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_tarnkappe.jpg" alt="">
-        <p>Hassan Seif: Research Associate (System Analyst)</a></p>
+        <p>Hassan Seif: Research Associate (System Analyst)</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_schriefer.jpg" alt="">
-        <p>Ilakoze Jumanne: Research Associate (Mobile Developer)</a></p>
+        <p>Ilakoze Jumanne: Research Associate (Mobile Developer)</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
