@@ -18,7 +18,7 @@ published: true
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }} anthony.jpg" alt="">
+        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
         <p>Anthony Faustine: <a href="http://sambaiga.github.io"> Project Team Leader </a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
